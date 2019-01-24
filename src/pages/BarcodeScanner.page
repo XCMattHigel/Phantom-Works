@@ -1,0 +1,4 @@
+<apex:page controller="BarcodeScannerController" docType="html-5.0" sidebar="false" showHeader="false"
+                       standardStylesheets="false" applyHtmlTag="false">
+    <c:BarcodeScannerComp/>
+</apex:page>
